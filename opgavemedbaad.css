@@ -1,0 +1,108 @@
+/* RESET */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1.1;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;   
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+    content:''; content:none;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+/*slut med reset*/
+#pagewrap {
+    margin: 50px
+}
+#beskrivelse{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.5em;   
+}
+
+h1,h2,h3{
+    font-weight: bold;
+}
+#stortbillede{
+    border-radius: 50px 50px 50px 50px;
+    width: 500px;
+}
+#billedsektion1{
+    float:right;
+    background-color: #e6eeff;
+    padding: 0.1em;
+    margin: 0.5em;
+    margin-right: 0;
+}
+header{
+text-align: center;
+}
+header h1{
+    font-size: 2.5em;
+    font-style: italic;
+}
+header p{
+    font-style: italic;
+    font-size: 1.5em
+}
+
+#faktaboks{
+    background-color: #e6eeff; 
+    float: right;
+    padding: 0.3em;
+    width: 25%;
+    font-size: 1em;
+}
+#indhold{
+    float: left;
+    width: 70%;
+}
+
+footer{
+    clear:both;
+    background-color: #e6eeff;
+}
+#beskrivelse h2{
+    font-size: 1.5em;
+    font-weight: 900;
+    padding-top: 0.3em;
+}
+header{
+    background-color: #b3d1ff;
+    padding: 0.3em;
+}
+aside p{
+    margin-bottom: 0.5em;
+    line-height: 1.5;
+}
+aside h3{
+    font-size: 1.25em;
+    font-weight: bold;
+}
+#beskrivelse h2{
+    font-size: 1.5em;
+    font-weight: 900;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+blockquote {
+    font-family: 'Lobster', cursive;
+}
