@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /*slut med reset*/
 #pagewrap {
-    margin: 50px
+    margin: 75px
 }
 #beskrivelse{
     font-family: 'Open Sans Condensed', sans-serif;
@@ -60,7 +60,7 @@ header h1{
     font-style: italic;
 }
 header p{
-    font-style: italic;
+    font-style: bolder;
     font-size: 1.5em
 }
 
